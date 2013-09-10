@@ -7,7 +7,7 @@ import org.junit.Test;
 
 
 public class GiaiPTB1Test {
-	private GiaiPTB1 GiaiPTB1 = new GiaiPTB1();
+	GiaiPTB1 GiaiPTB1 = new GiaiPTB1();
 	
 	
 @Test
